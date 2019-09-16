@@ -1,5 +1,6 @@
 # girf-meas
-Matlab code to support my paper own eddy current-induced steady-state disruption as described in :
+***Matlab code to support my paper own eddy current-induced steady-state disruption as described in:***
+
 T. Bruijnen, B. Stemkens, C.A.T. van den Berg and R.H.N. Tijssen
 Prospective GIRF-based RF phase cycling to reduce eddy current-induced steady-state disruption in bSSFP imaging.
 
