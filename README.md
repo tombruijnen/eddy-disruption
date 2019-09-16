@@ -18,8 +18,8 @@ The files contain matlab code **1)** to process gradient measurements from k-spa
 [2] Ethan K. Brodsky, Jessica L. Klaers, Alexey A. Samsonov,Richard Kijowski and Walter F. Block.
 "Rapid Measurement and Correction of Phase Errors from B0 Eddy Currents: Impact on Image Quality for Non-Cartesian Imaging"
 
-Signe J. Vannesjo,Maximilan Haeberlin,Lars Kasper,Matteo Pavan,Bertram J. Wilm,Christoph Barmet,Klaas P. Pruessmann
-Gradient system characterization by impulse response measurements with a dynamic field camera
+[3] Signe J. Vannesjo,Maximilan Haeberlin,Lars Kasper,Matteo Pavan,Bertram J. Wilm,Christoph Barmet,Klaas P. Pruessmann.
+"Gradient system characterization by impulse response measurements with a dynamic field camera"
 
-Brian Hargreaves's Bloch simulation code
+[4] Brian Hargreaves's Bloch simulation code
 http://mrsrl.stanford.edu/~brian/blochsim/
