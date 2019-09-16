@@ -19,3 +19,5 @@ subplot(224);plot(imag(girf_first),-real(girf_first),'LineWidth',2);
 ylabel('Real [a.u.]');xlabel('Imag [a.u.]');title('GIRF_1')
 legend('X','Y','Z','orientation','horizontal','location','south')
 grid on;set(gca,'FontSize',14,'LineWidth',2);
+
+set(gcf,'Color','w')

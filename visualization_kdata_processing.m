@@ -15,3 +15,5 @@ grid on;set(gca,'FontSize',14,'LineWidth',2)
 subplot(224);plot(10^3*labels.t_adc,10^3*squeeze(first_order(:,1,1)),'LineWidth',2);
 ylabel('G [mT/m] [rad]');xlabel('Time [ms]');title('Duyn analysis')
 grid on;set(gca,'FontSize',14,'LineWidth',2)
+
+set(gcf,'Color','w')
