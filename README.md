@@ -6,8 +6,9 @@ Prospective GIRF-based RF phase cycling to reduce eddy current-induced steady-st
 
 The files contain matlab code **1)** to process gradient measurements from k-space data; **2)** to calculate gradient impulse response functions and **3)** to simulate eddy current-induced steady-state disruption using bloch equations. The three figures below summarize these three functionalities respectively.
 
-### Preview results
+**Figure 1**
 ![](Images/kdata_processed.jpg)
+**Figure 2**
 ![](Images/girfs.jpg)
 
 ### References
