@@ -1,12 +1,12 @@
 
-# Matlab code to support my paper own eddy current-induced steady-state disruption as described in:
+# Matlab code to support my paper on eddy current-induced steady-state disruption:
 
 T. Bruijnen, B. Stemkens, C.A.T. van den Berg and R.H.N. Tijssen
 Prospective GIRF-based RF phase cycling to reduce eddy current-induced steady-state disruption in bSSFP imaging.
 
 The files contain matlab code **1)** to process gradient measurements from k-space data; **2)** to calculate gradient impulse response functions and **3)** to simulate eddy current-induced steady-state disruption using bloch equations. The three figures below summarize these three functionalities respectively.
 
-**The code is based on the following three papers and the publically available bloch simulation code:**
+## The code is based on the following three papers and the publically available bloch simulation code:
 
 Jeff H. Duyn,Yihong Yang, Joseph A. Frank, and Jan Willem van der Veen
 Simple Correction Method for k-Space Trajectory Deviations in MRI
