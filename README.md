@@ -12,11 +12,11 @@ The files contain matlab code **1)** to process gradient measurements from k-spa
 
 ### References
 
-Jeff H. Duyn,Yihong Yang, Joseph A. Frank, and Jan Willem van der Veen
-Simple Correction Method for k-Space Trajectory Deviations in MRI
+[1] Jeff H. Duyn,Yihong Yang, Joseph A. Frank, and Jan Willem van der Veen.
+"Simple Correction Method for k-Space Trajectory Deviations in MRI"
 
-Ethan K. Brodsky, Jessica L. Klaers, Alexey A. Samsonov,Richard Kijowski and Walter F. Block
-Rapid Measurement and Correction of Phase Errors from B0 Eddy Currents: Impact on Image Quality for Non-Cartesian Imaging
+[2] Ethan K. Brodsky, Jessica L. Klaers, Alexey A. Samsonov,Richard Kijowski and Walter F. Block.
+"Rapid Measurement and Correction of Phase Errors from B0 Eddy Currents: Impact on Image Quality for Non-Cartesian Imaging"
 
 Signe J. Vannesjo,Maximilan Haeberlin,Lars Kasper,Matteo Pavan,Bertram J. Wilm,Christoph Barmet,Klaas P. Pruessmann
 Gradient system characterization by impulse response measurements with a dynamic field camera
