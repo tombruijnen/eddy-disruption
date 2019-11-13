@@ -5,7 +5,7 @@ T. Bruijnen, B. Stemkens, C.A.T. van den Berg and R.H.N. Tijssen.
 "Prospective GIRF-based RF phase cycling to reduce eddy current-induced steady-state disruption in bSSFP imaging."
 Accepted in Magnetic Resonance in Medicine on 04-Nov-2019.
 
-The files contain matlab code **1)** to process gradient measurements from k-space data; **2)** to calculate gradient impulse response functions and **3)** to simulate eddy current-induced steady-state disruption using bloch equations. In addition we provide a freely available set of gradient impulse response functions. The three figures below summarize these three functionalities respectively. The scripts are tested on matlab-2015a & matlab-2019a.
+The files contain matlab code **1)** to process gradient measurements from k-space data; **2)** to calculate gradient impulse response functions and **3)** to simulate eddy current-induced steady-state disruption using bloch equations. In addition we provide a freely available set of gradient impulse response functions. The four figures below summarize these three functionalities respectively. The scripts are tested on matlab-2015a & matlab-2019a.
 
 **Figure 1** summarizes the processing of the gradient measurements. Where the left-top panel shows an example of a triangular input gradient waveform. Top-right panel shows the measured accumulated phase of the k-space data. Bottom-left shows the corresponding Brodksy analysis (0th order eddy currents) and bottom-right shows the corresponding Duyn analysis (1th order eddy currents).
 
@@ -15,7 +15,11 @@ The files contain matlab code **1)** to process gradient measurements from k-spa
 
 ![](Images/girfs.jpg)
 
+**Figure 3** shows the signal intensities of spins with and without eddy current induced by three different sampling schemes. The colorbar indicates the signal intensities, where black indicates the typical signal voids we see with bSSFP.
+
 ![](Images/offres_landscapes_eddy.jpg)
+
+**Figure 4** shows a compressed version of figure 3 which indicates how the steady--state is (not) reached.
 
 ![](Images/signal_profiles_eddy.jpg)
 
