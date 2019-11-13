@@ -15,6 +15,11 @@ The files contain matlab code **1)** to process gradient measurements from k-spa
 
 ![](Images/girfs.jpg)
 
+![](Images/offres_landscapes_eddy.jpg)
+
+![](Images/signal_profiles_eddy.jpg)
+
+
 ### References
 
 [1] Jeff H. Duyn,Yihong Yang, Joseph A. Frank, and Jan Willem van der Veen.
