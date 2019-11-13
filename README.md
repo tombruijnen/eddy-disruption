@@ -1,5 +1,5 @@
 
-**These script reproduce some of the images shown in the article:**
+**These script reproduce some of the work shown in the article:**
 
 T. Bruijnen, B. Stemkens, C.A.T. van den Berg and R.H.N. Tijssen.
 "Prospective GIRF-based RF phase cycling to reduce eddy current-induced steady-state disruption in bSSFP imaging."
@@ -24,3 +24,5 @@ The files contain matlab code **1)** to process gradient measurements from k-spa
 
 [4] Brian Hargreaves's Bloch simulation code
 http://mrsrl.stanford.edu/~brian/blochsim/
+
+For questions or suggestions please contact me @ t.bruijnen@umcutrecht.nl.
