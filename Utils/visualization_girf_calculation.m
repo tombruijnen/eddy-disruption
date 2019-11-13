@@ -10,7 +10,7 @@ ylabel('Argument [rad]');xlabel('Frequency [Hz]');title('Arg(GIRF_{0})');
 legend('X','Y','Z','orientation','horizontal','location','north')
 grid on;set(gca,'FontSize',14,'LineWidth',2);axis([])
 
-subplot(223);plot(f_storage,girf_first,'LineWidth',2);
+subplot(223);plot(f_storage,abs(girf_first),'LineWidth',2);
 ylabel('Magnitude [a.u.]');xlabel('Frequency [Hz]');title('|GIRF_1|')
 legend('X','Y','Z','orientation','horizontal','location','north')
 grid on;set(gca,'FontSize',14,'LineWidth',2);

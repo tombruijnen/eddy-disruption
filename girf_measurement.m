@@ -14,12 +14,10 @@
 %
 % Init: T.Bruijnen - 20190912 
 
-cd('/nfs/bsc01/researchData/USER/tbruijne/Projects_Main/GIRF/GIRF_measurements/girf-meas')
-
 %% Raw data processing to obtain zeroth and first order responses
 % Load data - dimensions: [nsamples ngradients 6 axis]
-load('Data/kdata.mat')
-load('Data/labels.mat')
+load('Data/kdata_girf_measurement.mat')
+load('Data/labels_girf_measurement.mat')
 
 % Phase unwrapping
 kdata = unwrap(angle(kdata));
